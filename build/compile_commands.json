@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/daniel/Documents/Projects/Engine/build",
+  "command": "/usr/bin/c++  -I/home/daniel/Documents/Projects/SetWallpaperCLI/includes -std=gnu++23 -o CMakeFiles/Engine.dir/Unity/unity_0_cxx.cxx.o -c /home/daniel/Documents/Projects/Engine/build/CMakeFiles/Engine.dir/Unity/unity_0_cxx.cxx",
+  "file": "/home/daniel/Documents/Projects/Engine/build/CMakeFiles/Engine.dir/Unity/unity_0_cxx.cxx",
+  "output": "CMakeFiles/Engine.dir/Unity/unity_0_cxx.cxx.o"
+}
+]
